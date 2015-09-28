@@ -1,0 +1,42 @@
+
+body {
+background: #7FFFD4;
+font-family:verdana;
+font-size: 12px
+	
+}
+h1 {
+	font-family: verdana;
+	font-size: 32px;
+	color:#008b8b;
+
+}
+h4{
+	color:#008b8b;
+}
+p{
+	color:#008b8b;
+	border-style: double;
+	border-width: medium;	
+}
+nav {
+	border-style: double;
+	border-collapse: 
+}
+footer {
+	font-size: 10px
+}
+.green {
+	color: solid black;
+	font-family: verdana;
+	font-size: 45px
+}
+#LINKY {
+	border: dashed;
+	border-color: #008b8b;
+}
+.body{
+	position:center;
+}
+
+
